@@ -6,7 +6,7 @@ Created by: Caedy Lee, Sienna Li, Richie Xue, Shaurya Sen
 ### Revelant Files
 - [Project Specifications](https://courses.cs.cornell.edu/cs2112/2024fa/project/project.pdf?1732124197)
 - [Example Critter File](https://courses.cs.cornell.edu/cs2112/2024fa/project/example-critter.txt)
-- [Example World File](url)
+- [Example World File](world.txt)
 - [Project Grammar](https://courses.cs.cornell.edu/cs2112/2024fa/project/grammar.txt)
 
 ## Overview
@@ -26,6 +26,14 @@ Our GUI was written using JavaFX and was designed to enhance both functionality 
 
 **Functionality**
 - Load custom worlds.
+
+![Load worlds](load-world.gif)
 - Load custom critters, with the option of choosing its location on the grid.
+
+![Load critters](load-critter.gif)
 - Run and control the speed of the simulation.
+
+![Run simulation](move.gif)
 - View information about chosen hexagons and its contents.
+
+![View hex](hex-info.gif)
